@@ -47,7 +47,7 @@ const HeroSection = () => {
       {/* Floating decorative emojis */}
       <div className="floating-element">🏆</div>
       <div className="floating-element">⭐</div>
-      <div className="floating-element">🎖️</div>
+      <div className="floating-element">🎖</div>
 
       <div className="hero-content">
         <p>Presented By</p>
