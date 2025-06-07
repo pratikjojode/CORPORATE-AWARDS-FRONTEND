@@ -153,7 +153,7 @@ const HeroSection = () => {
         <h2>DISCOVERING EXCELLENCE IN SUCCESSFUL BUSINESS</h2>
 
         <div className="event-details">
-          <p>28th JUNE, 2024 | Friday</p>
+          <p>28th JUNE, 2025 | Friday</p>
           <p>Morning 9 AM to Afternoon 4PM</p>
         </div>
 
