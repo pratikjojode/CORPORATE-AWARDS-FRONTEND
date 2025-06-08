@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Header from "../Components/Header"; // Assuming you have a Header component
 import Footer from "../Components/Footer"; // Assuming you have a Footer component
-import "../styles/Insights.css";
+import "../Styles/Insights.css";
 
 const Insights = () => {
   // State for the image slideshow modal
